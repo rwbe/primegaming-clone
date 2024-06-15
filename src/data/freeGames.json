@@ -1,0 +1,23 @@
+{
+  "freeGames": [
+  {"img":"https://m.media-amazon.com/images/I/61BWlCjtMlL._FMwebp_.jpg", "title":"Everdream Valley"},
+  {"img":"https://m.media-amazon.com/images/I/61xziDJH9cL._FMwebp_.jpg", "title":"MythForce", "howToPlayButton": "https://example.com/kombinera-how-to-play"},
+  {"img":"https://m.media-amazon.com/images/I/61DQYJP0PoL._FMwebp_.jpg", "title":"Blast Brigade vs. the Evil Legion of Dr. Cread"},
+  {"img":"https://m.media-amazon.com/images/I/61Hdz-vWtlL._FMwebp_.jpg", "title":"Projection: First Light", "howToPlayButton": "https://example.com/aground-how-to-play"},
+  {"img":"https://m.media-amazon.com/images/I/61U9D571neL._FMwebp_.jpg", "title":"STAR WARS Battlefront II (Classic, 2005)", "howToPlayButton": "https://example.com/seaorama-how-to-play"},
+  {"img":"https://m.media-amazon.com/images/I/617xuMJwMSL._FMwebp_.jpg", "title":"The Forgotten City", "howToPlayButton": "https://example.com/akka-how-to-play"},
+  {"img":"https://m.media-amazon.com/images/I/71UbYvEUp8L._FMwebp_.jpg", "title":"Weird West: Definitive Edition"},
+  {"img":"https://m.media-amazon.com/images/I/71Yw--GJDmL._FMwebp_.jpg", "title":"The Lullaby of Life"},
+  {"img":"https://m.media-amazon.com/images/I/61KfqWDcUKL._FMwebp_.jpg", "title":"Genesis Noir"},
+  {"img":"https://m.media-amazon.com/images/I/61a75DAXIlL._FMwebp_.jpg", "title":"Spirits of Mystery: Whisper of the Past"},
+  {"img":"https://m.media-amazon.com/images/I/61vrMuukfnL._FMwebp_.jpg", "title":"Electrician Simulator"},
+  {"img":"https://m.media-amazon.com/images/I/61ktwJwoNhL._FMwebp_.jpg", "title":"Bramble: The Mountain King"},
+  {"img":"https://m.media-amazon.com/images/I/614o77bVm9L._FMwebp_.jpg", "title":"100 Doors Games: Escape from School"},
+  {"img":"https://m.media-amazon.com/images/I/71sLWdipZ7L._FMwebp_.jpg", "title":"Nine Witches: Family Disruption"},
+  {"img":"https://m.media-amazon.com/images/I/61cgQwjVOML._FMwebp_.jpg", "title":"Vlad Circus: Descend Into Madness"},
+  {"img":"https://m.media-amazon.com/images/I/51PijsJz82L._FMwebp_.jpg", "title":"Tiny Robots Recharged"},
+  {"img":"https://m.media-amazon.com/images/I/61Z-7Tb-4tL._FMwebp_.jpg", "title":"Dexter Stardust: Adventures in Outer Space"},
+  {"img":"https://m.media-amazon.com/images/I/41v0vPf3-iL._FMwebp_.jpg", "title":"Faraway: Arctic Escape"},
+  {"img":"https://m.media-amazon.com/images/I/41+vWcO5VDL._FMwebp_.jpg", "title":"Faraway 2: Jungle Escape"}
+ ]
+}

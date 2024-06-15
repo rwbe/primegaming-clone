@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.noscroll::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.text-shadow-effect {
+  text-shadow: rgba(0, 0, 0, 0.45) 2px 2px 4px;
+  font-weight: 500;
+}
+
+.user-dropdown__divider {
+  height: 1px;
+  width: calc(100% - 25px); /* Ajuste a largura conforme necessário */
+  background-color: rgb(97, 87, 112);
+  margin: 3px auto; /* Define margens automáticas para centralizar */
+}
+
+.user-dropdown__divider hr {
+  display: none; /* Oculta a linha horizontal padrão */
+}
+
+.texture-bg {
+  background-image: url('src/assets/primegamingop.png');
+  background-color: rgba(0, 0, 0, 0.5); /* Aqui você pode definir a cor de sobreposição e sua opacidade */
+  background-repeat: repeat; /* ou repeat-x, repeat-y, no-repeat, conforme necessário */
+}
+
+
+.animate-pulsate {
+  animation: pulsate 1s infinite;
+}
+
+@keyframes pulsate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+
+
+
+
+
+
+
+
